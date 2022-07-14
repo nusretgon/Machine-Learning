@@ -11,3 +11,5 @@
 * we can't use in calculation categorical values.
 * All steps shown in picture ;
 ![Untitled1](https://user-images.githubusercontent.com/72438433/179117433-3940f8b7-297d-4e99-a06f-30f76d6a3597.png)
+* After first project, we get 0 1 2 for country. But we can't say US better than TR or FR.
+* So we did second process.
