@@ -2,14 +2,15 @@
 import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt
+
 # Reading process
-dataset=pd.read_csv("datasets/sales.csv")
+dataset=pd.read_csv("../datasets/sales.csv")
+
 # We divide columns to process.
-months=dataset["Months"]
+months=dataset[["Months"]]
+sales=dataset[["Sales"]]
 
-sales=dataset["Sales"]
-
-
+# Dividing train and test
 from sklearn.model_selection import train_test_split
 # First independent variable second dependent variable
 x_train,x_test,y_train,y_test=train_test_split(months,sales,train_size=0.66,random_state=0)
@@ -23,7 +24,7 @@ X_test=sc.fit_transform(x_test)
 Y_train=sc.fit_transform(y_train)
 Y_test=sc.fit_transform(y_test)
 """
-
+# Linear Regression process
 from sklearn.linear_model import LinearRegression
 lr=LinearRegression()
 # We learned y train from x train
