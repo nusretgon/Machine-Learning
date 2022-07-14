@@ -1,8 +1,9 @@
 import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt
+# Reading process
 dataset=pd.read_csv("datasets/sales.csv")
-
+# We divide columns to process.
 months=dataset["Months"]
 
 sales=dataset["Sales"]
