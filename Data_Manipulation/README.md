@@ -7,9 +7,9 @@
 ![Untitled](https://user-images.githubusercontent.com/72438433/179108641-c6bffcc7-6784-4197-9634-490fc19b5196.png)
 
 ### Categorical Values
-* We should cast categorical values to numeric because 
-* we can't use in calculation categorical values.
+* We should cast categoric values to numeric because we can't use in calculation categoric values.
 * All steps shown in picture ;
+
 ![Untitled1](https://user-images.githubusercontent.com/72438433/179117433-3940f8b7-297d-4e99-a06f-30f76d6a3597.png)
 * After first project, we get 0 1 2 for country. But we can't say US better than TR or FR.
 * So we did second process.
