@@ -13,3 +13,8 @@
 ![Untitled1](https://user-images.githubusercontent.com/72438433/179117433-3940f8b7-297d-4e99-a06f-30f76d6a3597.png)
 * After first project, we get 0 1 2 for country. But we can't say US better than TR or FR.
 * So we did second process.
+
+### We rarely use scaling process.
+* We have lots of data and we want these datas similar.
+* So we can use scaling process.
+![Ekran Alıntısı](https://user-images.githubusercontent.com/72438433/179349566-49fe5b29-b1df-4299-9f5e-ad65fb12352a.PNG)
