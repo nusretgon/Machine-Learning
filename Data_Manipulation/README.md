@@ -17,4 +17,14 @@
 ### We rarely use scaling process.
 * We have lots of data and we want these datas similar.
 * So we can use scaling process.
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/72438433/179349566-49fe5b29-b1df-4299-9f5e-ad65fb12352a.PNG)
+
+### Dummy Variable
+
+* Sometimes we have more than one variable to represent one feature. For example,sex.
+* In dummyVariable.py firstly we cast sex column to numeric values. Then we get Mens and Womens.
+* Men mean not women. Women mean not men. So we don't need any second column.
+* If we use just men column, we solve problem.
+
+![Adsız](https://user-images.githubusercontent.com/72438433/179936770-cba3cbe3-7aff-4e49-b7b8-06c2c8d31d98.png)
