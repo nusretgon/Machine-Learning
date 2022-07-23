@@ -7,3 +7,14 @@
 * In linearRegWithMulValues.py we get these values.
 
 ![s](https://user-images.githubusercontent.com/72438433/179428114-234eb3f4-8c6a-41d9-be91-1f1ec6a5c844.PNG)
+
+### Second Project
+* In second project we use statsmodels.api and we get coefficient and p values.
+* Our p value approximately should be p<Significance Value(0,05).
+![First model](https://user-images.githubusercontent.com/72438433/180601099-115b396b-404c-44f0-a748-20bb214c76ea.PNG)
+
+* x5 = 0,717. So we need to eliminate x5.
+![Ekran Alıntısı](https://user-images.githubusercontent.com/72438433/180601186-941218a5-103c-419d-83cf-75ad4953d1d3.PNG)
+
+* Of course we eliminate x5 but now x6 turn x5. Now we don't have higher value than SL(Signifance Level).
+* If you want you can eliminate more variable but it may not always works.
