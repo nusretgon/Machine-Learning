@@ -24,3 +24,5 @@
 * You can download and try with dataset(in datasets folder).
 * Dataset is not big so our results are not correct enough.
 * Results; 
+
+![as](https://user-images.githubusercontent.com/72438433/181013670-ea73514c-fc42-4795-9b7b-76bd4193013d.PNG)
