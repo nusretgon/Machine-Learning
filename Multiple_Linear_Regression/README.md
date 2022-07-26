@@ -18,3 +18,9 @@
 
 * Of course we eliminate x5 but now x6 turn x5. Now we don't have higher value than SL(Signifance Level).
 * If you want you can eliminate more variable but it may not always works.
+
+### Tennis Project
+* In tennisProject.py we have multiple independent values.
+* You can download and try with dataset(in datasets folder).
+* Dataset is not big so our results are not correct enough.
+* Results; 
