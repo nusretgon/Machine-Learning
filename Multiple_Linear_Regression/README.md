@@ -26,3 +26,9 @@
 * Results; 
 
 ![as](https://user-images.githubusercontent.com/72438433/181013670-ea73514c-fc42-4795-9b7b-76bd4193013d.PNG)
+
+* And we get this statsmodel summary;
+
+![Düzeltme](https://user-images.githubusercontent.com/72438433/181494664-cbae2ea9-72b6-4a19-b8d5-501e114c7f2c.PNG)
+
+* As you see we get one variable high p value from 0.5. So we should subtract this variable.
