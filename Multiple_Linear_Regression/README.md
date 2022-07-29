@@ -32,3 +32,7 @@
 ![Düzeltme](https://user-images.githubusercontent.com/72438433/181494664-cbae2ea9-72b6-4a19-b8d5-501e114c7f2c.PNG)
 
 * As you see we get one variable high p value from 0.5. So we should subtract this variable.
+* We use backward elimination.
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/72438433/181714785-e4dc8948-0237-40fd-a4f8-437a92ccf184.PNG)
+
