@@ -9,3 +9,10 @@
 ### Now our polynomial regression;
 
 ![poly](https://user-images.githubusercontent.com/72438433/181906696-a7ff33e5-6f3d-46e9-acc9-78671880c8ef.PNG)
+
+### In polynomial.py file, we determine degree=4.
+* So what is this?
+* Results;
+
+![power 3](https://user-images.githubusercontent.com/72438433/181906705-72dd848f-bff5-4d78-9ef6-5a88a0633970.PNG)
+
