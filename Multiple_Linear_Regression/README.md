@@ -36,3 +36,6 @@
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/72438433/181714785-e4dc8948-0237-40fd-a4f8-437a92ccf184.PNG)
 
+* BEFORE AFTER CORRECT VALUES for tennis project;
+
+![beforeElemination](https://user-images.githubusercontent.com/72438433/181906370-0e53c2c2-07d0-43b0-a359-8339f71b8f49.PNG)
